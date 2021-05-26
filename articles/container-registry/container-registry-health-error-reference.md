@@ -8,7 +8,7 @@ ms.date: 01/25/2021
 
 Following are details about error codes returned by the [az acr check-health][az-acr-check-health] command. For each error, possible solutions are listed.
 
-For information about running `az acr check-healh`, see [Check the health of an Azure container registry](container-registry-check-health.md).
+For information about running `az acr check-health`, see [Check the health of an Azure container registry](container-registry-check-health.md).
 
 ## DOCKER_COMMAND_ERROR
 
@@ -106,7 +106,7 @@ This error means that the CLI is not compatible with the currently installed ver
 
 ## Next steps
 
-For options to check the health of a registry, see [Check the health of an Azure container registry](container-registry-check-health.md).
+For options to check the gth of a registry, see [Check the health of an Azure container registry](container-registry-check-health.md).
 
 See the [FAQ](container-registry-faq.md) for frequently asked questions and other known issues about Azure Container Registry.
 
